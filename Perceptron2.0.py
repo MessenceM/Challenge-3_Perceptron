@@ -1,5 +1,8 @@
 """
 Perceptron v 2.0
+My first Neural Network!
+It's capable of linear categorization of points separated by the function y = -x
+The iterations of training are delayed in order to visualize the backpropagation
 Improvement => It can now classify points separated by any given function
 
 Author : Matis Messence
